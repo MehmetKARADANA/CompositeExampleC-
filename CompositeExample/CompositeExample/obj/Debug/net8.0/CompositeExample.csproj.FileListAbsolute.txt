@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\bin\Debug\net8.0\CompositeExample.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\bin\Debug\net8.0\CompositeExample.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\bin\Debug\net8.0\CompositeExample.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\bin\Debug\net8.0\CompositeExample.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\bin\Debug\net8.0\CompositeExample.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\refint\CompositeExample.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\CompositeExample.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Composite\CompositeExample\CompositeExample\obj\Debug\net8.0\ref\CompositeExample.dll
